@@ -1,0 +1,1 @@
+Trainin_Set = dlmread('ColonCancer_PCA');
